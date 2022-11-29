@@ -1,0 +1,38 @@
+#banner{
+	min-height:100px;
+	background-color:lightblue;
+}
+#menu{}
+#nav-bar{
+	min-height:400px;
+	background-color:gray;
+	margin-top: -20px;
+}
+.one{
+	text-align: center;
+	font-size: 20px;
+	text-shadow: 2px 2px yellow;
+}
+#content{
+	min-height:400px;
+	background-color:darkgray;
+	margin-top: -20px;
+}
+#footer{
+	min-height:80px;
+	background-color:darkblue;
+}
+#login{
+	width:40%;
+	min-height:100px;
+}
+section h1{
+	/* //font-size: 12px; */
+}
+section#login {
+	margin:0 auto;
+	margin-top:100px;
+	box-shadow: 2px 2px 2px 2px green;
+	padding: 5px;
+	
+}
